@@ -1,0 +1,29 @@
+
+body {
+  overflow-x: hidden;
+}
+
+/* Estilização da scrollbar no WebKit */
+::-webkit-scrollbar {
+    width: 12px; /* Largura da scrollbar vertical */
+  }
+  
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1; /* Cor de fundo da track (trilha) */
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: #EA580C; /* Cor do thumb (alça) */
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background: #EA580C; /* Cor do thumb ao passar o mouse */
+  }
+
+::selection {
+  background-color: #EA580C; 
+}
+  
+.table-container {
+  overflow-x: auto;
+}

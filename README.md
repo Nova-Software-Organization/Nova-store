@@ -25,8 +25,7 @@ Estrutura de Pastas
 /src/styles: Estilos e folhas de estilo.
 
 ## Instalação
-Clone o repositório: git clone https://github.com/Nova-Software-Organization/Nova-store.git
-Instale as dependências: npm install
+Clone o repositório: git clone https://github.com/iKaueMatos/Nova-store.git
 
 ## Uso
 Execute o projeto localmente:

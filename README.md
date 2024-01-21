@@ -26,7 +26,6 @@ Estrutura de Pastas
 
 ## Instalação
 Clone o repositório: git clone https://github.com/iKaueMatos/Nova-store.git
-Instale as dependências: npm install
 
 ## Uso
 Execute o projeto localmente:
